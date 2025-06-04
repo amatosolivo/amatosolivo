@@ -1,57 +1,58 @@
-# 👋 Hi there, I'm Alex
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1518770660612-42410a8e100f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Tecnología y Código" width="650px" style="border-radius: 15px; margin-bottom: 20px;">
+</div>
 
-I’m a software engineer, architect, and entrepreneur with more than 20 years of experience in the tech industry. I build secure, scalable, and meaningful software solutions. I believe in simple code, strong architecture, and human-centered design.
-
-Technology for me is not just a profession — it’s a passion. From reverse-engineering hardware as a teenager to designing SaaS platforms today, I’ve always pursued a deeper understanding of how things work. I love sharing that journey with others.
-
----
-
-## 🔭 I’m currently working on
-
-- **Xentinel.app** – A security management platform for private security companies  
-- **Sintetiza.me** – A prompt builder and catalog for users and prompt engineers  
-- Internal tools and architecture for scalable, multi-tenant SaaS applications  
-
-## 🌱 I’m currently learning
-
-- Deepening my knowledge in **OpenID Connect**, **SAML2**, and federated identity systems  
-- Exploring **Edge Functions** and **Serverless Architectures** with **Next.js 15**  
-- Refining my **DevSecOps** skills with Docker, GitHub Actions, and Infrastructure as Code  
-
-## 👯 I’m looking to collaborate on
-
-- Tools that help non-technical users access the power of AI  
-- Developer experience (DX) tools that simplify secure, scalable software  
-- Solutions for small-to-medium businesses in Latin America  
-
-## 🤔 I’m looking for help with
-
-- Improving documentation and accessibility in technical projects  
-- Integrating Clerk/Supabase/Auth0 with custom IdPs for enterprise apps  
-- Sharing knowledge through better visuals and educational content  
-
-## 💬 Ask me about
-
-- Software Architecture (Hexagonal, DDD, Modular Monoliths, Microservices)  
-- Identity & Access Management (OAuth2, OIDC, SAML2)  
-- Building SaaS platforms with Next.js, Nuxt, .NET, Docker & MySQL  
-- Modernizing legacy systems with pragmatic strategies  
-
-## 📫 How to reach me
-
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/amatosolivo)  
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](www.linkedin.com/in/alexander-matos-olivo-71870529)  
-- Email: amatosolivo@gmail.com
-
-## 😄 Pronouns
-
-He / Him (Él)
-
-## ⚡ Fun fact
-
-I once built a whole REST API service to unlock Apple Iphones for a SAP Interface.
+<h1 align="center">👋 ¡Hola! Soy Alexander Matos</h1>
+<p align="center">
+  Ingeniero de Software Senior | Arquitecto de Software | Especialista en DevOps & Gestión de Proyectos
+</p>
 
 ---
+
+### 🚀 Sobre Mí
+
+Soy un profesional orientado a resultados, comprometido con el cumplimiento de objetivos financieros y de plazos en proyectos tecnológicos[cite: 1]. Con una amplia experiencia en arquitectura de software, desarrollo ágil, integración de sistemas y gestión de proyectos en entornos de alta demanda[cite: 2]. Mi pasión es construir soluciones robustas y escalables, aplicando metodologías modernas y liderando equipos hacia el éxito.
+
+A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos sectores, desde ciberseguridad y gobierno hasta telecomunicaciones, lo que me ha proporcionado una visión integral del ciclo de vida del desarrollo de software y la gestión de la infraestructura tecnológica[cite: 3, 4, 6, 8, 9, 10, 11].
+
+### 🛠️ Habilidades Técnicas
+
+Aquí están algunas de las tecnologías y herramientas con las que trabajo:
+
+* **Metodologías Ágiles:** SCRUM (sprints) [cite: 3]
+* **DevOps:** CI/CD, Azure DevOps, Jira (usuario avanzado) [cite: 3]
+* **Autenticación:** OpenID Connect, OAuth, SSO, SAML [cite: 3]
+* **Lenguajes:** Dart, Java, JavaScript, C# [cite: 3]
+* **Bases de Datos:** SQL Server, MySQL, Postgresql, Oracle [cite: 3, 7]
+* **Herramientas:** Jenkins, SVN, Git, GitLab, Nexus, Maven [cite: 3]
+* **Frameworks:** .NET Core, Node.js, Next.js, Nuxt [cite: 3]
+* **Frontend:** HTML5, CSS3, React [cite: 3]
+* **Mobile:** Flutter, React Native [cite: 3]
+* **Sistemas Operativos:** Windows, Linux, Mac OS [cite: 3]
+
+### 💡 Proyectos Destacados & Experiencia
+
+He liderado y contribuido en el desarrollo de aplicaciones críticas y la implementación de soluciones tecnológicas innovadoras:
+
+* **TripleEnable (TripleCyber Corp.):** Responsable de la arquitectura, desarrollo e implementación de esta aplicación especializada en ciberseguridad, incluyendo gestión de proyectos y despliegue de soluciones en producción[cite: 4, 5].
+* **SIGEF (Ministerio de Hacienda):** Participación clave en el desarrollo de este sistema gubernamental, utilizando Java EE y aplicando prácticas DevOps[cite: 6, 7].
+* **"Quisqueya Aprende Contigo" (DIGEPEP):** Desarrollo de un sistema de registro y seguimiento utilizando Windows Azure, SQL Server y C#[cite: 8].
+* **Aplicaciones Internas (Claro Dominicana):** Desarrollo de aplicaciones internas críticas y APIs para integraciones con SAP, liderando proyectos de transformación digital[cite: 9].
+* **Centurion SaaS:** Mi proyecto personal que demuestra mi capacidad para construir soluciones completas.
+    * [Ver Proyecto Centurion SaaS](https://amatosolivo.github.io/centurion-documentation/) *(Asegúrate de reemplazar este link con el real de tu repositorio si Centurion SaaS es un proyecto público en GitHub)*
+
+### 🌐 Conéctate Conmigo
+
+Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
+
+* **LinkedIn:** [Alexander Matos Olivo en LinkedIn](www.linkedin.com/in/alexander-matos-olivo-71870529) *(Asegúrate de que este sea tu URL real de LinkedIn)*
+* **Blog Personal:** [Mi Blog en BlogSpot](https://amatosolivo.blogspot.com/](https://programandosdq.blogspot.com/) *(Asegúrate de que este sea tu URL real de BlogSpot)*
+* **Correo Electrónico:** amatosolivo@gmail.com [cite: 1]
+
+---
+<p align="center">
+  <i>Construyendo el futuro, línea por línea.</i>
+</p>
 
 ## 👨‍💻 Tech Stack
 
