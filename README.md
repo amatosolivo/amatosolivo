@@ -9,7 +9,7 @@ Technology for me is not just a profession — it’s a passion. From reverse-en
 ## 🔭 I’m currently working on
 
 - **Xentinel.app** – A security management platform for private security companies  
-- **Sintetiza.com** – A prompt builder and catalog for users and prompt engineers  
+- **Sintetiza.me** – A prompt builder and catalog for users and prompt engineers  
 - Internal tools and architecture for scalable, multi-tenant SaaS applications  
 
 ## 🌱 I’m currently learning
@@ -34,14 +34,14 @@ Technology for me is not just a profession — it’s a passion. From reverse-en
 
 - Software Architecture (Hexagonal, DDD, Modular Monoliths, Microservices)  
 - Identity & Access Management (OAuth2, OIDC, SAML2)  
-- Building SaaS platforms with Next.js, Go, .NET, Docker & MySQL  
+- Building SaaS platforms with Next.js, Nuxt, .NET, Docker & MySQL  
 - Modernizing legacy systems with pragmatic strategies  
 
 ## 📫 How to reach me
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)  
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)  
-- Email: your.email@example.com  
+- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/amatosolivo)  
+- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](www.linkedin.com/in/alexander-matos-olivo-71870529)  
+- Email: amatosolivo@gmail.com
 
 ## 😄 Pronouns
 
@@ -49,7 +49,7 @@ He / Him (Él)
 
 ## ⚡ Fun fact
 
-I once built a whole access control system from scratch using old recycled parts and wrote the firmware in assembly — just for fun.
+I once built a whole REST API service to unlock Apple Iphones for a SAP Interface.
 
 ---
 
