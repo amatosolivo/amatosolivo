@@ -60,6 +60,7 @@ Languages:     C#, JavaScript, TypeScript, Go, SQL
 Frameworks:    .NET, Node.js, React, Next.js, Nuxt  
 Tools:         Docker, Git, Redis, TailwindCSS, Vite, Sentry  
 Cloud/Infra:   Azure, Vercel, NGINX, CI/CD Pipelines  
-Databases:     MySQL, PostgreSQL, SQLite, Supabase  
+Databases:     MySQL, PostgreSQL, SQLite, Supabase
+```
 
 ![amatosolivo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amatosolivo&theme=vue-dark&hide_border=true)
