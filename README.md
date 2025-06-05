@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660612-42410a8e100f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Tecnología y Código" width="650px" style="border-radius: 15px; margin-bottom: 20px;">
+  <img src="https://github.com/amatosolivo/amatosolivo/blob/main/banner.jpg" alt="Tecnología y Código" width="1500px" style="border-radius: 15px; margin-bottom: 20px;">
 </div>
 
 <h1 align="center">👋 ¡Hola! Soy Alexander Matos</h1>
