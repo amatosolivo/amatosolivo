@@ -63,5 +63,6 @@ Tools:         Docker, Git, Redis, TailwindCSS, Vite, Sentry
 Cloud/Infra:   Azure, Vercel, NGINX, CI/CD Pipelines  
 Databases:     MySQL, PostgreSQL, SQLite, Supabase
 ```
-
-<center>![amatosolivo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amatosolivo&theme=vue-dark&hide_border=true)</center>
+<div align="center">
+![amatosolivo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amatosolivo&theme=vue-dark&hide_border=true)
+</div>
