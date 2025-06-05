@@ -64,4 +64,4 @@ Cloud/Infra:   Azure, Vercel, NGINX, CI/CD Pipelines
 Databases:     MySQL, PostgreSQL, SQLite, Supabase
 ```
 
-![amatosolivo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amatosolivo&theme=vue-dark&hide_border=true)
+<center>![amatosolivo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=amatosolivo&theme=vue-dark&hide_border=true)</center>
