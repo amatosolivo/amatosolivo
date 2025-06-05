@@ -38,8 +38,10 @@ He liderado y contribuido en el desarrollo de aplicaciones críticas y la implem
 * **SIGEF (Ministerio de Hacienda):** Participación clave en el desarrollo de este sistema gubernamental, utilizando Java EE y aplicando prácticas DevOps[cite: 6, 7].
 * **"Quisqueya Aprende Contigo" (DIGEPEP):** Desarrollo de un sistema de registro y seguimiento utilizando Windows Azure, SQL Server y C#[cite: 8].
 * **Aplicaciones Internas (Claro Dominicana):** Desarrollo de aplicaciones internas críticas y APIs para integraciones con SAP, liderando proyectos de transformación digital[cite: 9].
-* **Centurion SaaS:** Mi proyecto personal que demuestra mi capacidad para construir soluciones completas.
-    * [Ver Proyecto Centurion SaaS](https://amatosolivo.github.io/centurion-documentation/) *(Asegúrate de reemplazar este link con el real de tu repositorio si Centurion SaaS es un proyecto público en GitHub)*
+* **Centurion SaaS:** Aplicacion Web para el manejo, control y sinergia con empresas de seguridad con sus clientes y empleados.
+    * [Ver Proyecto Centurion SaaS](https://amatosolivo.github.io/centurion-documentation/)
+* **Sintetiza SaaS:** Plataforma para almacenar de forma segura tus prompt con la IA, aqui podras asegurar, mejorar o solicitar ayuda en la cracion del prompt perfecto para tus necesidades.
+    * [Ver Proyecto Sintetiza](https://sintetiza.vercel.app/)
 
 ### 🌐 Conéctate Conmigo
 
