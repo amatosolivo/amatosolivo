@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 ¡Hola! Soy Alexander Matos</h1>
 <p align="center">
-  Ingeniero de Software Senior | Arquitecto de Software | Especialista en DevOps & Gestión de Proyectos
+  Senior Full Stack Developer | Sortware Architect | AI Solutions Developer
 </p>
 
 ---
