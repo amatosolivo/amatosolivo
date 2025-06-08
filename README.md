@@ -4,29 +4,34 @@
 
 <h1 align="center">👋 ¡Hola! Soy Alexander Matos</h1>
 <p align="center">
-  Senior Full Stack Developer | Sortware Architect | AI Solutions Developer
+  AI LLM Integrator | Prompt Engineer | Senior Full Stack Developer | Sortware Architect
 </p>
 
 ---
 
 ### 🚀 Sobre Mí
 
-Soy un profesional orientado a resultados, comprometido con el cumplimiento de objetivos financieros y de plazos en proyectos tecnológicos[cite: 1]. Con una amplia experiencia en arquitectura de software, desarrollo ágil, integración de sistemas y gestión de proyectos en entornos de alta demanda[cite: 2]. Mi pasión es construir soluciones robustas y escalables, aplicando metodologías modernas y liderando equipos hacia el éxito.
+Soy un profesional orientado a resultados, comprometido con el cumplimiento de objetivos financieros y de entrega[cite: 1]. Con una amplia experiencia en Arquitectura de Software, Integración de Sistemas con IA y Gestión de Proyectos Vanguardistas en entornos de alta demanda[cite: 2]. Mi pasión es construir soluciones robustas y escalables, aplicando metodologías modernas.
 
-A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos sectores, desde ciberseguridad y gobierno hasta telecomunicaciones, lo que me ha proporcionado una visión integral del ciclo de vida del desarrollo de software y la gestión de la infraestructura tecnológica[cite: 3, 4, 6, 8, 9, 10, 11].
+A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos sectores: Banca Electronica, Ciberseguridad, Gobierno Electronico, Automatizacion de Procesos y Telecomunicaciones, lo que me ha proporcionado una visión integral del ciclo de vida del desarrollo de software y la gestión de la infraestructura tecnológica[cite: 3, 4, 6, 8, 9, 10, 11].
+
+En la actualidad me encuentro realizando una certificacion en Implementacion la Inteligencia Artificial en Sistemas de Uso Empresarial, asi como en la Ingenieria de Prompts para IA. (Uno de mis proyectos personales trata sobre esto - SINTETIZA)
 
 ### 🛠️ Habilidades Técnicas
 
 Aquí están algunas de las tecnologías y herramientas con las que trabajo:
 
-* **Metodologías Ágiles:** SCRUM (sprints) [cite: 3]
-* **DevOps:** CI/CD, Azure DevOps, Jira (usuario avanzado) [cite: 3]
-* **Autenticación:** OpenID Connect, OAuth, SSO, SAML [cite: 3]
-* **Lenguajes:** Dart, Java, JavaScript, C# [cite: 3]
-* **Bases de Datos:** SQL Server, MySQL, Postgresql, Oracle [cite: 3, 7]
-* **Herramientas:** Jenkins, SVN, Git, GitLab, Nexus, Maven [cite: 3]
-* **Frameworks:** .NET Core, Node.js, Next.js, Nuxt [cite: 3]
-* **Frontend:** HTML5, CSS3, React [cite: 3]
+* **Ingenieria de Prompts:** OpenAI API, Llama
+* **Metodologías Ágiles:** SCRUM [cite: 3]
+* **DevOps:** CI/CD Pipelines Configuration, Azure DevOps, Amazon Web Services (AWS), Github Actions [cite: 3]
+* **Seguridad:** OpenID Connect, oAuth, Single Sign On, Clerk, KeyCloak, Identity Server, Better Auth [cite: 3]
+* **Lenguajes:** Dart, Java, Vanilla JavaScript, Typescript, C#, VBA [cite: 3]
+* **Protocolos:** MQTT, SAML, HTTP, FTP, 
+* **Bases de Datos:** SQL Server, MySQL, Postgresql, Oracle, MongoDB, H2, SQLite [cite: 3, 7]
+* **Herramientas:** Git, Maven, Docker, Docker-Compose, Kubernetes, Istio  [cite: 3]
+* **Ofimatica:** Microsoft Office, Open Office, Google (Docs, Sheet)
+* **Frameworks:** .NET Core, Node.js, Next.js, Nuxt, Vue [cite: 3]
+* **Frontend:** HTML5, CSS3, React, Vite, Tailwind CSS,  [cite: 3]
 * **Mobile:** Flutter, React Native [cite: 3]
 * **Sistemas Operativos:** Windows, Linux, Mac OS [cite: 3]
 
