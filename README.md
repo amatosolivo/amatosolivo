@@ -2,74 +2,74 @@
   <img src="https://github.com/amatosolivo/amatosolivo/blob/main/banner.jpg" alt="Tecnología y Código" width="1500px" style="border-radius: 15px; margin-bottom: 20px;">
 </div>
 
-<h1 align="center">👋 ¡Hola! Soy Alexander Matos</h1>
+<h1 align="center">Alexander Matos Olivo</h1>
 <p align="center">
-  AI LLM Integrator | Prompt Engineer | Senior Full Stack Developer | Sortware Architect
+  <strong>Arquitecto de Soluciones con Inteligencia Artificial</strong><br>
+  Transformando procesos empresariales con IA, automatización y agentes inteligentes
 </p>
 
 ---
 
-### 🚀 Sobre Mí
+## 🚀 Sobre Mí
 
-Soy un profesional orientado a resultados, comprometido con el cumplimiento de objetivos financieros y de entrega[cite: 1]. Con una amplia experiencia en Arquitectura de Software, Integración de Sistemas con IA y Gestión de Proyectos Vanguardistas en entornos de alta demanda[cite: 2]. Mi pasión es construir soluciones robustas y escalables, aplicando metodologías modernas.
+Soy un ingeniero de software con más de 20 años de experiencia en el diseño de soluciones empresariales. En la actualidad, me especializo en **aplicaciones de Inteligencia Artificial** orientadas a resolver desafíos reales en múltiples sectores: desde la automatización de tareas rutinarias hasta la implementación de asistentes con voz, agentes autónomos y modelos LLM privados para uso empresarial.
 
-A lo largo de mi carrera, he tenido la oportunidad de trabajar en diversos sectores: Banca Electronica, Ciberseguridad, Gobierno Electronico, Automatizacion de Procesos y Telecomunicaciones, lo que me ha proporcionado una visión integral del ciclo de vida del desarrollo de software y la gestión de la infraestructura tecnológica[cite: 3, 4, 6, 8, 9, 10, 11].
+Mi enfoque combina:
 
-En la actualidad me encuentro realizando una certificacion en Implementacion la Inteligencia Artificial en Sistemas de Uso Empresarial, asi como en la Ingenieria de Prompts para IA. (Uno de mis proyectos personales trata sobre esto - SINTETIZA)
-
-### 🛠️ Habilidades Técnicas
-
-Aquí están algunas de las tecnologías y herramientas con las que trabajo:
-
-* **Ingenieria de Prompts:** OpenAI API, Llama
-* **Metodologías Ágiles:** SCRUM [cite: 3]
-* **DevOps:** CI/CD Pipelines Configuration, Azure DevOps, Amazon Web Services (AWS), Github Actions [cite: 3]
-* **Seguridad:** OpenID Connect, oAuth, Single Sign On, Clerk, KeyCloak, Identity Server, Better Auth [cite: 3]
-* **Lenguajes:** Dart, Java, Vanilla JavaScript, Typescript, C#, VBA [cite: 3]
-* **Protocolos:** MQTT, SAML, HTTP, FTP, 
-* **Bases de Datos:** SQL Server, MySQL, Postgresql, Oracle, MongoDB, H2, SQLite [cite: 3, 7]
-* **Herramientas:** Git, Maven, Docker, Docker-Compose, Kubernetes, Istio  [cite: 3]
-* **Ofimatica:** Microsoft Office, Open Office, Google (Docs, Sheet)
-* **Frameworks:** .NET Core, Node.js, Next.js, Nuxt, Vue [cite: 3]
-* **Frontend:** HTML5, CSS3, React, Vite, Tailwind CSS,  [cite: 3]
-* **Mobile:** Flutter, React Native [cite: 3]
-* **Sistemas Operativos:** Windows, Linux, Mac OS [cite: 3]
-
-### 💡 Proyectos Destacados & Experiencia
-
-He liderado y contribuido en el desarrollo de aplicaciones críticas y la implementación de soluciones tecnológicas innovadoras:
-
-* **TripleEnable (TripleCyber Corp.):** Responsable de la arquitectura, desarrollo e implementación de esta aplicación especializada en ciberseguridad, incluyendo gestión de proyectos y despliegue de soluciones en producción[cite: 4, 5].
-* **SIGEF (Ministerio de Hacienda):** Participación clave en el desarrollo de este sistema gubernamental, utilizando Java EE y aplicando prácticas DevOps[cite: 6, 7].
-* **"Quisqueya Aprende Contigo" (DIGEPEP):** Desarrollo de un sistema de registro y seguimiento utilizando Windows Azure, SQL Server y C#[cite: 8].
-* **Aplicaciones Internas (Claro Dominicana):** Desarrollo de aplicaciones internas críticas y APIs para integraciones con SAP, liderando proyectos de transformación digital[cite: 9].
-* **Centurion SaaS:** Aplicacion Web para el manejo, control y sinergia con empresas de seguridad con sus clientes y empleados.
-    * [Ver Proyecto Centurion SaaS](https://amatosolivo.github.io/centurion-documentation/)
-* **Sintetiza SaaS:** Plataforma para almacenar de forma segura tus prompt con la IA, aqui podras asegurar, mejorar o solicitar ayuda en la cracion del prompt perfecto para tus necesidades.
-    * [Ver Proyecto Sintetiza](https://sintetiza.vercel.app/)
-
-### 🌐 Conéctate Conmigo
-
-Estoy siempre abierto a nuevas oportunidades y colaboraciones. ¡No dudes en contactarme!
-
-* **LinkedIn:** [Alexander Matos Olivo en LinkedIn](www.linkedin.com/in/alexander-matos-olivo-71870529) *(Asegúrate de que este sea tu URL real de LinkedIn)*
-* **Blog Personal:** [Mi Blog en BlogSpot](https://amatosolivo.blogspot.com/](https://programandosdq.blogspot.com/) *(Asegúrate de que este sea tu URL real de BlogSpot)*
-* **Correo Electrónico:** amatosolivo@gmail.com [cite: 1]
+- Ingeniería de prompting
+- Modelado de agentes autónomos
+- Integraciones con voz (TTS + STT)
+- Orquestación de procesos con IA
+- Entrenamiento y ajuste fino de modelos
+- Implementación de LLM privados (Deepseek, LLaMA, etc.)
 
 ---
-<p align="center">
-  <i>Construyendo el futuro, línea por línea.</i>
-</p>
 
-## 👨‍💻 Tech Stack
+## 🧠 ¿Cómo Puedo Ayudar a Tu Empresa?
 
-```bash
-Languages:     C#, JavaScript, TypeScript, Go, SQL  
-Frameworks:    .NET, Node.js, React, Next.js, Nuxt  
-Tools:         Docker, Git, Redis, TailwindCSS, Vite, Sentry  
-Cloud/Infra:   Azure, Vercel, NGINX, CI/CD Pipelines  
-Databases:     MySQL, PostgreSQL, SQLite, Supabase
-```
+| 🧩 Solución | 📌 Aplicaciones Reales |
+|------------|------------------------|
+| **Agentes AI Autónomos** | Procesamiento de tickets, respuestas automáticas, soporte 24/7 |
+| **Asistentes con Voz** | Interfaces naturales para CRM, ventas, consultas internas |
+| **Ingeniería de Prompting** | Optimización de prompts para LLMs en contextos específicos |
+| **Automatización IA + RPA** | Reducción de tareas manuales, integraciones con APIs y ERP |
+| **LLMs Privados On-Premise** | Soluciones con DeepSeek, LLaMA 3, para datos sensibles |
+| **Entrenamiento y Fine-Tuning** | Adaptación de modelos a industrias específicas |
+| **Integración Multimodal** | Voz, texto, documentos, imágenes para asistentes inteligentes |
+
+---
+
+## 🛠️ Herramientas y Tecnologías
+
+- **Modelos**: GPT-4, LLaMA, Mistral, DeepSeek, Claude, Whisper, Bark
+- **Frameworks**: LangChain, Transformers (HF), RAG, Haystack, Autogen
+- **Infraestructura**: Docker, FastAPI, Node.js, Next.js, Nuxt, Redis, Nginx
+- **IA en producción**: Sentry, Prometheus, CI/CD, GPU Inference, DevOps
+- **Lenguajes**: Python, JavaScript/TypeScript, Go, Rust
+
+---
+
+## 🧪 Proyectos Destacados
+
+- 🔐 `Xentinel.ai` – Plataforma de seguridad inteligente con agentes autónomos y visión por IA.
+- 🧠 `Sintetiza` – Constructor de prompts con catálogo optimizado para negocios y usuarios avanzados.
+- 🗣️ `VoiceAgent` – Asistente de voz empresarial para automatización de tareas con comandos naturales.
+- 🧾 `FacturIA` – Sistema de facturación inteligente con LLM y análisis semántico de documentos.
+
+> Visita mis repositorios o contáctame si estás interesado en transformar tu empresa con IA.
+
+---
+
+## 📬 Conecta Conmigo
+
+- 🌐 Sitio Web/Portafolio: [https://amatos.dev](https://amatos.dev)
+- 📧 Email: [alex@aprezia.do](mailto:alex@aprezia.do)
+- 💼 LinkedIn: [linkedin.com/in/amatosolivo](https://linkedin.com/in/amatosolivo)
+
+---
+
+<p align="center"><em>La Inteligencia Artificial no reemplaza personas, sino procesos obsoletos.</em></p>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amatosolivo&theme=vue-dark&hide_border=true" alt="amatosolivo's Streak"/>
 </div>
