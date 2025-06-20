@@ -62,9 +62,11 @@ Mi enfoque combina:
 
 ## 📬 Conecta Conmigo
 
-- 🌐 Sitio Web/Portafolio: [https://amatos.dev](https://amatos.dev)
-- 📧 Email: [alex@aprezia.do](mailto:alex@aprezia.do)
-- 💼 LinkedIn: [linkedin.com/in/amatosolivo](https://linkedin.com/in/amatosolivo)
+* **Centurion SaaS:** Aplicacion Web para el manejo, control y sinergia con empresas de seguridad con sus clientes y empleados.Add commentMore actions
+    * [Ver Proyecto Centurion SaaS](https://amatosolivo.github.io/centurion-documentation/)
+    * [Ver Portal Xentinel](https://xentinel.vercel.app/)
+* **Sintetiza SaaS:** Plataforma para almacenar de forma segura tus prompt con la IA, aqui podras asegurar, mejorar o solicitar ayuda en la cracion del prompt perfecto para tus necesidades.
+    * [Ver Proyecto Sintetiza](https://sintetiza.vercel.app/)
 
 ---
 
